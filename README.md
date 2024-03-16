@@ -1,0 +1,2 @@
+# AI-recognition
+use opencv
